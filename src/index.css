@@ -1,0 +1,25 @@
+:root{
+  --primary: #ea8f1d;
+  --secondary: #8a4d16;
+  --tertiary: #004073;
+  --white: #ffffff;
+  --text-color: #333333;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+section{
+  min-height: calc(100vh - (111.19px + 24px));
+}

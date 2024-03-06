@@ -1,0 +1,25 @@
+/*---GENERAL---*/
+
+nav{
+    background-color: var(--secondary);
+}
+
+.nav .nav-link.active {
+    color: var(--primary) !important;
+}
+
+.nav .nav-link{
+    color: var(--white);
+}
+
+/*---LIGHT---*/
+
+.light section{
+    background-color: var();
+}
+
+/*---DARK---*/
+
+.dark section{
+    background-color: var();
+}
